@@ -7,6 +7,7 @@ If you’d like to get in touch, feel free to connect!
 
 [shobhitsingh.in](http://shobhitsingh.in/)<br>
 [Blogs](https://bigdataenthusiast.wordpress.com/)
+[LinkedIn](https://www.linkedin.com/in/shobhitsinghIN)
 <!--
 **shobhit-singh/shobhit-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
