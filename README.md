@@ -5,8 +5,8 @@ I'm Shobhit
 Im currenty working on Python & PL/SQL. Passionate about Data Science, Big Data & Cloud Computing. 
 If you’d like to get in touch, feel free to connect!
 
-[My Blogs](https://bigdataenthusiast.wordpress.com/)<br>
-[Email](mailto:shobhitsingh2007@gmail.com)
+[shobhitsingh.in](http://shobhitsingh.in/)<br>
+[Blogs](https://bigdataenthusiast.wordpress.com/)
 <!--
 **shobhit-singh/shobhit-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
