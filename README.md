@@ -6,7 +6,7 @@ Generally works on Python, SQL, PL/SQL, Business Inteligence & ETL. Passionate a
 If you’d like to get in touch, feel free to connect!
 
 [shobhitsingh.in](http://shobhitsingh.in/)<br>
-[Blogs](https://bigdataenthusiast.wordpress.com/)
+[Blogs](https://bigdataenthusiast.wordpress.com/)<br>
 [LinkedIn](https://www.linkedin.com/in/shobhitsinghIN)
 <!--
 **shobhit-singh/shobhit-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
