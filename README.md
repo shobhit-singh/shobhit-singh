@@ -2,7 +2,7 @@
 
 I'm Shobhit
 
-Generally works on Python, SQL, PL/SQL, Business Inteligence & ETL. Passionate about Data Science, Big Data & Cloud Computing. 
+Generally works on Python, SQL, PL/SQL, Business Inteligence & ETL. Passionate about Data Science, Big Data & Cloud Computing.<br>
 If you’d like to get in touch, feel free to connect!
 
 [shobhitsingh.in](http://shobhitsingh.in/)<br>
