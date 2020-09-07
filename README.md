@@ -3,6 +3,9 @@
 I'm Shobhit
 
 Generally works on Python, SQL, PL/SQL, Business Intelligence & ETL. Passionate about Data Science, Big Data & Cloud Computing.<br>
+
+🌱 I’m currently learning Bootstrap.
+
 If you’d like to get in touch, feel free to connect!
 
 [shobhitsingh.in](http://shobhitsingh.in/)<br>
