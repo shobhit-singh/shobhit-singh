@@ -4,13 +4,14 @@ I'm Shobhit
 
 Generally works on Python, SQL, PL/SQL, Business Intelligence & ETL. Passionate about Data Science, Big Data & Cloud Computing.<br>
 
-🌱 I’m currently learning Bootstrap.
+🌱 I’m currently learning Bootstrap & bit of JS.
 
 If you’d like to get in touch, feel free to connect!
 
-[shobhitsingh.in](https://www.shobhitsingh.in/)<br>
-[Blogs](https://bigdataenthusiast.wordpress.com/)<br>
 [LinkedIn](https://www.linkedin.com/in/shobhitsinghIN)
+[shobhitsingh.in](https://www.shobhitsingh.in/)<br>
+[Check my blogs](https://bigdataenthusiast.wordpress.com/)<br>
+
 <!--
 **shobhit-singh/shobhit-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
