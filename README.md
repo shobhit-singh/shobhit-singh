@@ -8,7 +8,7 @@ Generally works on Python, SQL, PL/SQL, Business Intelligence & ETL. Passionate 
 
 If you’d like to get in touch, feel free to connect!
 
-[shobhitsingh.in](http://shobhitsingh.in/)<br>
+[shobhitsingh.in](https://www.shobhitsingh.in/)<br>
 [Blogs](https://bigdataenthusiast.wordpress.com/)<br>
 [LinkedIn](https://www.linkedin.com/in/shobhitsinghIN)
 <!--
