@@ -10,7 +10,7 @@ If you’d like to get in touch, feel free to connect!
 
 [LinkedIn](https://www.linkedin.com/in/shobhitsinghIN)
 <br>
-[Check my blogs](https://bigdataenthusiast.wordpress.com/)
+[Blogs](https://bigdataenthusiast.wordpress.com/)
 <br>
 [shobhitsingh.in](https://www.shobhitsingh.in/)<br>
 <!--
