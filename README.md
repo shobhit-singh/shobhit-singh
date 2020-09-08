@@ -9,9 +9,10 @@ Generally works on Python, SQL, PL/SQL, Business Intelligence & ETL. Passionate 
 If you’d like to get in touch, feel free to connect!
 
 [LinkedIn](https://www.linkedin.com/in/shobhitsinghIN)
+<br>
+[Check my blogs](https://bigdataenthusiast.wordpress.com/)
+<br>
 [shobhitsingh.in](https://www.shobhitsingh.in/)<br>
-[Check my blogs](https://bigdataenthusiast.wordpress.com/)<br>
-
 <!--
 **shobhit-singh/shobhit-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
