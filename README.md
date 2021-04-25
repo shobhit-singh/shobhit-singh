@@ -2,7 +2,7 @@
 
 I'm Shobhit
 
-Generally works on Python, SQL, PL/SQL, Business Intelligence & ETL. Passionate about Data Science, Big Data & Cloud Computing.<br>
+Generally works on Data Engineering related technologies. Passionate about Data Science & Cloud Computing.<br>
 
 If you’d like to get in touch, feel free to connect!
 
@@ -15,7 +15,7 @@ If you’d like to get in touch, feel free to connect!
 **shobhit-singh/shobhit-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-🌱 I’m currently learning Spark.
+- 🌱 I’m currently learning Spark.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
