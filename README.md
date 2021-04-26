@@ -2,7 +2,7 @@
 
 I'm Shobhit
 
-Generally works on Data Engineering related technologies. Passionate about Data Science & Cloud Computing.<br>
+Generally works on Data Engineering related technologies. Passionate about Big Data, Data Science & Cloud Computing.<br>
 
 If you’d like to get in touch, feel free to connect!
 
